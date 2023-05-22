@@ -3,8 +3,11 @@
  
  ## Copyright
  El propósito de este módulo es proponer una traducción de todos los compendios generados por la importación de datos OggDude. 
+ 
  Este módulo no es oficial y nunca será publicado en FoundryVTT por razones de derechos.
+ 
  Este módulo está destinado a un uso puramente privado y puede ser retirado en cualquier momento a petición de los titulares de los derechos.
+ 
  Al utilizar este módulo usted acepta haber comprado los libros que contienen la información contenida en este módulo.
  
  ## Wikis
