@@ -1,12 +1,12 @@
 {
   "type": "module",
-  "name": "ffg-star-wars-traduction-fr-oggdude",
-  "title": "Star Wars FFG - Traduction Fr OggDude",
+  "name": "ffg-star-wars-traduction-es-oggdude",
+  "title": "Star Wars FFG - Traduction Es OggDude",
   "description": "Traduction des compendiums Ogg-Dude en Français, basé sur Babele",
-  "version": "0.2.1",
+  "version": "0.0.1",
   "minimumCoreVersion" : "9",
   "compatibleCoreVersion": "9",
-  "author": "Spocky69",
+  "author": "Javalina",
   "dependencies": [
     {
       "name": "starwarsffg",
@@ -27,16 +27,16 @@
   "styles": [],
   "packs": [],
   "languages": [{
-    "lang": "fr",
-    "name": "Français",
-    "path": "lang/fr.json"
+      "lang": "es",
+      "name": "Español (Spanish)",
+      "path": "lang/es.json"
   }],
   "socket": false,
   "coreTranslation": false,
   "library": false,
-  "url": "https://github.com/Spocky69/StarWarsFFG-TraductionFrOggDude",
-  "manifest": "https://raw.githubusercontent.com/Spocky69/StarWarsFFG-TraductionFrOggDude/main/ffg-star-wars-traduction-fr-oggdude/module.json",
-  "download": "https://github.com/Spocky69/StarWarsFFG-TraductionFrOggDude/archive/refs/tags/v0.2.1.zip",
+  "url": "https://github.com/Javalina/StarWarsFFG-TraduccionESOggDude",
+  "manifest": "https://raw.githubusercontent.com/Javalina/StarWarsFFG-TraduccionESOggDude/main/ffg-star-wars-traduction-fr-oggdude/module.json",
+  "download": "https://github.com/Javalina/StarWarsFFG-TraduccionESOggDude/archive/refs/heads/main.zip",
   "systemVersion": "1.72",
    "system": [
         "starwarsffg"
